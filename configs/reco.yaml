@@ -8,4 +8,4 @@ data_config:
   sampling_pattern: cartesian_with_os
   sens_type: espirit
   batch_size: 10
-  base_dir: ./data/knee   # this path has to point to the downloaded Globus data
+  base_dir: ./home/tianxiaoxiao/Data/knee   # this path has to point to the downloaded Globus data
